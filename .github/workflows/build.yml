@@ -1,10 +1,9 @@
-name: Build Android APK
+name: Build Shno Lona APK
 
 on:
   push:
     branches:
       - main
-
   workflow_dispatch:
 
 jobs:
